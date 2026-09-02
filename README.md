@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on building real-world software projects<br>👯 I'm looking to collaborate on open-source & innovative projects<br>🤝 I'm looking for help with system design, cybersecurity & scalable systems<br>🌱 I'm currently learning DSA, Full-Stack Development & Cybersecurity<br>💬 Ask me about Python, C++, DSA, Computer Networks & Git<br>⚡ Fun fact: I enjoy solving problems more than writing code 😄
+🔭 I'm currently working on building real-world software projects<br>👯 I'm looking to collaborate on open-source & innovative projects<br>🤝 I'm looking for help with system design, cybersecurity & scalable systems<br>🌱 I'm currently learning DSA, Full-Stack Development & Cybersecurity<br>💬 Ask me about Python, C++, DSA, Computer Networks & Git<br>
 
 
 ## 🌐 Socials:
