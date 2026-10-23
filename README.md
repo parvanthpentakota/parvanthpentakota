@@ -40,13 +40,35 @@ Hi, I'm **Parvanth Pentakota** — a developer focused on building strong proble
 
 <br>
 
+```html
+---
+
 <div align="center">
 
-## `~/` toolbox
+## `~/` languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,git,github,vscode,linux,docker,idea,bash,mysql,sklearn,pytorch,fastapi,react,typescript&perline=8" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript&perline=8" alt="Programming languages">
+
+<br><br>
+
+## `~/` development tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=8" alt="Development tools">
+
+<br><br>
+
+## `~/` frameworks & technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,fastapi,solidity&perline=8" alt="Frameworks and technologies">
+
+<br><br>
+
+## `~/` databases
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=8" alt="Databases">
 
 </div>
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-blue-dark.svg">
