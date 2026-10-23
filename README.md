@@ -40,32 +40,44 @@ Hi, I'm **Parvanth Pentakota** — a developer focused on building strong proble
 
 <br>
 
-```html
----
 
 <div align="center">
 
-## `~/` languages
+## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript&perline=8" alt="Programming languages">
+### 💻 Programming Languages
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,solidity&theme=dark" alt="Programming languages">
 
-## `~/` development tools
+### ⚙️ Development Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=8" alt="Development tools">
+<img src="https://skillicons.dev/icons?i=vscode,idea,clion,git,github,cmake&theme=dark" alt="Development environment">
 
-<br><br>
+### 🌐 Web Development & Backend
 
-## `~/` frameworks & technologies
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,spring,fastapi&theme=dark" alt="Web development and backend">
 
-<img src="https://skillicons.dev/icons?i=html,css,fastapi,solidity&perline=8" alt="Frameworks and technologies">
+### 🗄️ Databases
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=dark" alt="Databases">
 
-## `~/` databases
+### 🤖 AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=8" alt="Databases">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and machine learning">
+
+### 🔐 Cybersecurity
+
+`Network Security` · `Web Application Security` · `Cryptography` · `Vulnerability Assessment` · `Penetration Testing`
+
+### ⛓️ Blockchain
+
+`Solidity` · `Smart Contracts` · `Ganache` · `Web3`
+
+### 🧰 Systems & Core CS
+
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,postman&theme=dark" alt="Systems and developer tools">
+
+`Data Structures & Algorithms` · `Competitive Programming` · `Operating Systems` · `Computer Networks`
 
 </div>
 
