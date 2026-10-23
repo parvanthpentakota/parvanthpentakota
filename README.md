@@ -68,7 +68,7 @@ Hi, I'm **Parvanth Pentakota** — a developer focused on building strong proble
 <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=8" alt="Databases">
 
 </div>
-```
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-blue-dark.svg">
