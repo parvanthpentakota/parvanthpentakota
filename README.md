@@ -44,7 +44,7 @@ Hi, I'm **Parvanth Pentakota** — a developer focused on building strong proble
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github,vscode,linux&perline=8" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,git,github,vscode,linux,docker,idea,bash,mysql,sklearn,pytorch,fastapi,react,typescript&perline=8" alt="tech stack">
 
 </div>
 
