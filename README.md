@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="400" alt="Skill Radar">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-blue-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-blue-light.svg">
+  <img src="assets/portrait-blue-dark.svg" width="300" alt="Parvanth Pentakota">
 </picture>
 
 <!-- PORTRAIT - will be generated in Step 3 -->
@@ -90,11 +90,7 @@ Hi, I'm **Parvanth Pentakota**. I'm a Cybersecurity undergraduate interested in 
 </div>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-blue-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-blue-light.svg">
-  <img src="assets/portrait-blue-dark.svg" width="300" alt="Parvanth Pentakota">
-</picture>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=2196F3&center=true&vCenter=true&width=650&lines=Parvanth+Pentakota;C%2B%2B+%26+Python+Developer;Competitive+Programmer;Problem+Solver;Exploring+Cybersecurity" alt="typing banner">
 
 ---
@@ -107,7 +103,11 @@ Hi, I'm **Parvanth Pentakota**. I'm a Cybersecurity undergraduate interested in 
 <tr>
 <td width="50%" align="center">
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="400" alt="Skill Radar">
+</picture>
 
 </td>
 
