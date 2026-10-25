@@ -1,12 +1,10 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parvanthpentakota/parvanthpentakota/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parvanthpentakota/parvanthpentakota/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/parvanthpentakota/parvanthpentakota/output/snake.svg" width="100%" alt="Snake eating the contribution graph">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="400" alt="Skill Radar">
 </picture>
-
-</div>
 
 <!-- PORTRAIT - will be generated in Step 3 -->
 <img src="assets/portrait.svg" width="300" alt="Parvanth Pentakota">
@@ -109,11 +107,7 @@ Hi, I'm **Parvanth Pentakota**. I'm a Cybersecurity undergraduate interested in 
 <tr>
 <td width="50%" align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="400" alt="Skill Radar">
-</picture>
+
 
 </td>
 
@@ -133,7 +127,13 @@ Hi, I'm **Parvanth Pentakota**. I'm a Cybersecurity undergraduate interested in 
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parvanthpentakota/parvanthpentakota/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parvanthpentakota/parvanthpentakota/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/parvanthpentakota/parvanthpentakota/output/snake.svg" width="100%" alt="Snake eating the contribution graph">
+</picture>
 
+</div>
 
 ---
 
