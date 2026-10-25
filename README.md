@@ -31,12 +31,14 @@
 ```console
 $ cat about.txt
 ```
-Hi, I'm **Parvanth Pentakota** — a developer focused on building strong problem-solving skills and becoming a well-rounded software engineer.
+Hi, I'm **Parvanth Pentakota**. I'm a Cybersecurity undergraduate interested in building intelligent systems, solving complex problems, and understanding the mathematics and engineering behind technology.
 
-- 💻 Strengthening my skills in **C++ and Python**
-- 🧠 Focused on **Data Structures & Algorithms and Competitive Programming**
-- 🔐 Exploring **Cybersecurity, Bug Bounty, and Web Security**
-- 🚀 Improving through **problem solving, projects, and continuous learning**
+- 💻 Currently sharpening my **C++**, DSA, and competitive programming skills.
+- 🤖 Exploring **Machine Learning, Deep Learning, LLMs, and AI agents**.
+- 📈 Studying **probability, statistics, linear algebra, and quantitative modeling**.
+- 🛡️ Diving deeper into **network security, cryptography, ethical hacking, and security automation**.
+- ⚙️ Experimenting with **Python, Linux, PowerShell, APIs, and scalable systems**.
+- 🚀 Building projects at the intersection of **AI, cybersecurity, and software engineering**.
 
 <br>
 
